@@ -1,0 +1,18 @@
+{
+  "name": "desafio-playerdeveloper-latinad",
+  "version": "1.0.0",
+  "description": "Repositorio con la finalidad de resolver el desafío propuesto por LatinAd.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",	
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.2.0",
+    "eslint": "^9.12.0",
+    "globals": "^15.11.0"
+  }
+}
